@@ -104,9 +104,7 @@ This project not only addresses the nuances of sales prediction but also highlig
 
 ---
 
-## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
 
 ---
 
