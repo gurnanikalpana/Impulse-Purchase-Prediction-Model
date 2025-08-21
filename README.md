@@ -102,11 +102,4 @@ In the dynamic landscape of product and service-based businesses, the ability to
 
 This project not only addresses the nuances of sales prediction but also highlights the pivotal role of data science in optimizing business strategies. The findings contribute to informed decision-making, offering valuable insights for future sales initiatives.
 
----
 
-
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
