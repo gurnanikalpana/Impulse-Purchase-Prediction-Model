@@ -1,4 +1,4 @@
-# Sales Prediction Using Python
+Impulse-Purchase-Prediction-Model
 
 
 
